@@ -1,0 +1,1 @@
+vamos a centrarnos en git 
